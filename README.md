@@ -10,8 +10,11 @@
 
 **Action:**
 Xây dựng mô hình tài chính định lượng (CAPEX/OPEX) chi tiết để quản lý ngân sách.
+
 Xây dựng kịch bản Dự báo điểm hòa vốn (Break-even Analysis) dựa trên dữ liệu thị trường.
+
 Phân tích dữ liệu thị trường để thiết kế danh mục sản phẩm (Menu Strategy) tối ưu biên lợi nhuận.
+
 Thiết lập hệ thống mã hàng (SKU Management) cho Coffee và Bakery.
 
 **Impact:** Hoàn thiện bộ hồ sơ Nghiên cứu khả thi, sẵn sàng cho giai đoạn vận hành với hệ thống quản lý dữ liệu chuẩn hóa.
@@ -26,14 +29,14 @@ Thiết lập hệ thống mã hàng (SKU Management) cho Coffee và Bakery.
 - **Đối soát doanh thu:** Sử dụng `Window Functions` (`LEAD`, `RANK`) để tính chênh lệch doanh số giữa các Hub xếp hạng kế tiếp.
 - **Kiểm soát hiệu suất:** Tính toán `hours_diff` để phân loại Shipper (Outperform/Late), giúp xác định các điểm nghẽn vận hành.
 - **Tính toán tỷ trọng:** Phân tích cơ cấu doanh thu theo từng Hub/Thành phố.
-Phát hiện các sai lệch doanh thu giữa các Hub và xác định các điểm nghẽn vận hành (Operations Bottlenecks) dựa trên thời gian thực.
+
+Phát hiện các sai lệch doanh thu giữa các Hub và xác định các điểm nghẽn vận hành dựa trên thời gian thực.
 > [🔗 Xem chi tiết mã nguồn SQL tại đây](./SQL_K309_Analysis.sql)
 
 ---
 
 ##  2. Phân tích Gian lận & Dữ liệu Y tế [Python]
 **Dữ liệu:** Giao dịch tài chính (Fraud Detection) và Chỉ số sức khỏe (Diabetes).
-
 - **Data Integrity:** Sử dụng `Pandas` để kiểm tra Null, trùng lặp và định dạng dữ liệu.
 - **Anomaly Detection:** Vẽ biểu đồ `Boxplot` để xác định các giao dịch có giá trị ngoại lai bất thường.
 - **Phát hiện lỗi logic:** Xác định các bản ghi có chỉ số bằng 0 (vô lý về mặt y tế) và đề xuất hướng xử lý.
