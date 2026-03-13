@@ -1,5 +1,5 @@
 # Thai Tu Ngoc | Case Studies & Portfolio
-**Kỹ năng chính:** SQL, Python, Personal Project Planning.
+**Kỹ năng chính:** SQL, Python, Project Planning.
 
 ✨ Chào mừng bạn đến với Portfolio của tôi. Đây là tập hợp các dự án phân tích dữ liệu thực tế, tập trung vào kỹ năng kiểm soát dữ liệu, phát hiện bất thường tại HCMUS và cách tôi áp dụng tư duy Kinh Doanh từ nền tảng học thuật ngành Kinh Doanh Quốc Tế đã được học tại VLU để kết nối dữ liệu với chiến lược kinh doanh hỗ trợ tối ưu hoá vận hành.
 
