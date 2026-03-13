@@ -56,3 +56,4 @@ So sánh phân bố Glucose giữa nhóm mắc tiểu đường và không mắc
 - **Ngôn ngữ:** SQL (BigQuery/Standard SQL), Python.
 - **Thư viện:** Pandas, Matplotlib, Seaborn.
 - **Tư duy:** Data Auditing, EDA, Statistical Analysis.
+- **Nghiệp vụ:** Business Analysis, P&L Modeling, Supply Chain Planning.
