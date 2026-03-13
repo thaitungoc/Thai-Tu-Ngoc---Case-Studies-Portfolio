@@ -1,9 +1,9 @@
 # Thai Tu Ngoc | Case Studies & Portfolio
 **Kỹ năng chính:** SQL, Python, Personal Project Planning.
 
-Chào mừng bạn đến với Portfolio của tôi. Đây là tập hợp các dự án phân tích dữ liệu thực tế, tập trung vào kỹ năng Kiểm soát dữ liệu, Phát hiện bất thường tại HCMUS và cách tôi áp dụng tư duy Kinh Doanh từ nền tảng học thuật ngành Kinh Doanh Quốc Tế đã được học tại VLU để kết nối dữ liệu với chiến lược kinh doanh hỗ trợ tối ưu hoá vận hành.
+✨ Chào mừng bạn đến với Portfolio của tôi. Đây là tập hợp các dự án phân tích dữ liệu thực tế, tập trung vào kỹ năng Kiểm soát dữ liệu, Phát hiện bất thường tại HCMUS và cách tôi áp dụng tư duy Kinh Doanh từ nền tảng học thuật ngành Kinh Doanh Quốc Tế đã được học tại VLU để kết nối dữ liệu với chiến lược kinh doanh hỗ trợ tối ưu hoá vận hành.
 
-# F&B Startup Strategy & Pre-operating (Personal Project)
+# ☕️ F&B Startup Strategy & Pre-operating (Personal Project)
 **Context:** Thiết lập mô hình kinh doanh cho Startup F&B (Cafe & Merch).
 
 **Task:** Xây dựng hệ thống dự báo tài chính và quy trình vận hành từ con số 0.
@@ -19,7 +19,7 @@ Thiết lập hệ thống mã hàng (SKU Management) cho Coffee và Bakery.
 **Tools:** Excel/Google Sheets.
 
 
-# Các Case Study Data Analyst
+# 👩🏼‍💻 Các Case Study Data Analyst
 ## 1. Phân tích Hiệu Suất Chuỗi Cửa Hàng & Hub [SQL]
 **Dữ liệu:** Hệ thống giao nhận (Orders, Hubs, Shippers, Stores).
 
@@ -54,7 +54,7 @@ So sánh phân bố Glucose giữa nhóm mắc tiểu đường và không mắc
 
 ---
 
-## Công cụ sử dụng
+## 📮 Công cụ sử dụng
 - **Ngôn ngữ:** SQL (BigQuery/Standard SQL), Python.
 - **Thư viện:** Pandas, Matplotlib, Seaborn.
 - **Tư duy:** Data Auditing, EDA, Statistical Analysis.
