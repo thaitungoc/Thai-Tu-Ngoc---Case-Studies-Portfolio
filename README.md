@@ -41,8 +41,10 @@ Thiết lập hệ thống mã hàng (SKU Management) cho Coffee và Bakery.
 - **Analysis:**
 Xác định khung giờ cao điểm phát sinh gian lận (Câu 3.6).
 <img width="851" height="396" alt="Ảnh màn hình 2026-02-12 lúc 18 10 53" src="https://github.com/user-attachments/assets/f612bde8-c943-477d-99df-37f2b41d3248" />
+
 Phân tích số lượt giao dịch gian lận theo thời gian (ngày qua ngày - Câu 3.5).
 <img width="895" height="467" alt="Ảnh màn hình 2026-02-12 lúc 18 09 44" src="https://github.com/user-attachments/assets/f6345d5f-37bf-4934-92e4-fa3c2423d0bd" />
+
 So sánh phân bố Glucose giữa nhóm mắc tiểu đường và không mắc tiểu đường (Câu 4.3).
 <img width="623" height="449" alt="Ảnh màn hình 2026-02-12 lúc 18 12 02" src="https://github.com/user-attachments/assets/e0a71656-5db9-4ffb-b468-f1da7e06fe43" />
 
