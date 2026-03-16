@@ -34,7 +34,7 @@
 
 **SOP Optimization:** Tối ưu hóa quy trình vận hành tiêu chuẩn.
 
-# ☕️ F&B Startup Strategy & Pre-operating (Personal Project)
+# F&B Startup Strategy & Pre-operating (Personal Project)
 **Context:** Thiết lập mô hình kinh doanh cho Startup F&B (Cafe & Merch).
 
 **Task:** Xây dựng hệ thống dự báo tài chính và quy trình vận hành từ con số 0.
