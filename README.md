@@ -2,9 +2,9 @@
 
 ✨ Chào mừng bạn đến với Portfolio của tôi. Đây là tập hợp các dự án phân tích dữ liệu thực tế, tập trung vào kỹ năng kiểm soát dữ liệu, phát hiện bất thường tại HCMUS và cách tôi áp dụng tư duy Kinh Doanh từ nền tảng học thuật ngành Kinh Doanh Quốc Tế đã được học tại VLU để kết nối dữ liệu với chiến lược kinh doanh hỗ trợ tối ưu hoá vận hành.
 
-**Skills:** 
+# **Skills:** 
 
-**Business Domains:**
+## 📑 **Business Domains:**
 
 **Market Research & Site Selection:** Nghiên cứu thị trường và quy hoạch vị trí điểm bán.
 
@@ -15,7 +15,7 @@
 **Strategic Planning:** Hoạch định chiến lược và thiết lập mục tiêu (KPIs/OKRs).
 
 
-**Technical Skills:**
+## 💻 **Technical Skills:**
 
 **Financial Modeling:** Sử dụng Excel/Google Sheets để xây dựng mô hình P&L, CAPEX/OPEX, và dự báo dòng tiền.
 
@@ -26,7 +26,7 @@
 **Data Visualization:** Taleau, Power BI.
 
 
-**Audit & Quality:**
+## 📇 **Audit & Quality:**
 
 **Data Auditing & Integrity:** Kiểm soát tính chính xác và trung thực của dữ liệu từ nhiều nguồn (thủ công/ tự động/ bán tự động).
 
