@@ -58,7 +58,7 @@ Thiết lập hệ thống mã hàng (SKU Management) cho Coffee và Bakery.
 
 **Insight:** Nhóm mắc tiểu đường có nồng độ Glucose trung bình cao hơn rõ rệt và dải phân bố rộng hơn. Đây là chỉ số quan trọng nhất trong việc xây dựng mô hình dự báo rủi ro sức khỏe.
 
-> [🔗 Xem chi tiết Notebook Python tại đây](./Fraud_Detection_and_Medical_Analysis.ipynb)
+> [🔗 Xem chi tiết Notebook Python tại đây](./Project_Python_Cert.ipynb)
 
 ---
 
