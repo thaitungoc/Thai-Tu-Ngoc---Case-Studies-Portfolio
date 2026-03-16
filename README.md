@@ -1,6 +1,6 @@
 # Thai Tu Ngoc | Case Studies & Portfolio
 
-✨ Chào mừng bạn đến với Portfolio của tôi. Đây là tập hợp các dự án phân tích dữ liệu thực tế, tập trung vào kỹ năng kiểm soát dữ liệu, phát hiện bất thường tại HCMUS và cách tôi áp dụng tư duy Kinh Doanh từ nền tảng học thuật ngành Kinh Doanh Quốc Tế đã được học tại VLU để kết nối dữ liệu với chiến lược kinh doanh hỗ trợ tối ưu hoá vận hành.
+✨ Chào mừng bạn đến với Portfolio của tôi. Đây là tập hợp các dự án phân tích dữ liệu tập trung vào kỹ năng kiểm soát dữ liệu, phát hiện bất thường tôi được làm trong quá trình học Data Analyst Certificate tại TTTH - HCMUS và cách tôi áp dụng tư duy Kinh Doanh từ nền tảng học thuật ngành Kinh Doanh Quốc Tế đã được học tại VLU để kết nối dữ liệu với chiến lược kinh doanh hỗ trợ tối ưu hoá vận hành.
 
 # **Skills:** 
 
@@ -94,7 +94,7 @@
 > [🔗 Xem chi tiết Notebook Python tại đây](./Project_Python_Cert.ipynb)
 
 ## 3.  Kiểm toán dữ liệu chiến lược và Phân tích hiệu suất [Tableau]
-<>
+
 ---
 
 ## 📮 Công cụ sử dụng
