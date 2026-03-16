@@ -35,7 +35,7 @@
 **SOP Optimization:** Tối ưu hóa quy trình vận hành tiêu chuẩn.
 
 # F&B Startup Strategy & Pre-operating (Personal Project)
-**Context:** Thiết lập mô hình kinh doanh cho Startup F&B (Cafe & Merch).
+**Context:** Thiết lập mô hình kinh doanh cho Startup F&B (Cafe, Bakery & Merch).
 
 **Task:** Xây dựng hệ thống dự báo tài chính và quy trình vận hành từ con số 0.
 
@@ -79,7 +79,7 @@
 
 **Insight:** Phát hiện khung giờ cao điểm gian lận từ 22h - 4h sáng, đề xuất tăng cường hệ thống cảnh báo tự động trong khung giờ này.
 
-💡 Case: Phân tích số lượt giao dịch gian lận theo thời gian (ngày qua ngày - Câu 3.5)
+💡 Case: Phân tích số lượt giao dịch gian lận theo thời gian - ngày qua ngày (Câu 3.5)
 
 <img width="895" height="467" alt="Ảnh màn hình" src="https://github.com/user-attachments/assets/f6345d5f-37bf-4934-92e4-fa3c2423d0bd" />
 
@@ -94,7 +94,7 @@
 > [🔗 Xem chi tiết Notebook Python tại đây](./Project_Python_Cert.ipynb)
 
 ## 3.  Kiểm toán dữ liệu chiến lược và Phân tích hiệu suất [Tableau]
-
+<>
 ---
 
 ## 📮 Công cụ sử dụng
