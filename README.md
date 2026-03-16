@@ -32,7 +32,7 @@ Thiết lập hệ thống mã hàng (SKU Management) cho Coffee và Bakery.
 - **Tính toán tỷ trọng:** Phân tích cơ cấu doanh thu theo từng Hub/Thành phố.
 
 ==> Phát hiện các sai lệch doanh thu giữa các Hub và xác định các điểm nghẽn vận hành dựa trên thời gian thực.
-> [🔗 Xem chi tiết mã nguồn SQL tại đây](./SQL_K309_Analysis.sql)
+> [🔗 Xem chi tiết mã nguồn SQL tại đây](./Project_SQLCert.sql)
 
 ---
 
