@@ -1,0 +1,73 @@
+﻿Bảng Tổng vốn đầu tư (CAPEX);;;;;;;;;;;;;;;;;;;;
+STT;Hạng mục (Items);Thành tiền (VNĐ);Khấu hao (Tháng);Khấu hao/Tháng;;;;;;;;;;;;;;;;
+1;Mặt bằng & Cọc (3 tháng);₫0;0;₫0;;;;;;"CapEx: Chi phí đầu tư ban đầu
+OpEx: Chi phí vận hành
+Cost of Goods Sold - Chi phí giá vốn (nlieu chính, topping, bao bì…)";;;;;;;;;;
+2;Cải tạo & Decor (Quầy kệ Merch);₫30.000.000;36;₫833.333;;;;;;;;;;;;;;;;
+3;Máy móc & Thiết bị (Cafe + Tủ bánh);₫43.940.990;36;₫1.220.583;;;;;;;;;;;;;;;;
+4;Pháp lý & Marketing ban đầu;₫2.000.000;12;₫166.667;;;;;;;;;;;;;;;;
+5;Vốn lưu động dự phòng;₫25.000.000;0;₫0;;;;;;;;;;;;;;;;
+;TỔNG VỐN ĐẦU TƯ;₫100.940.990;;₫2.220.583;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;; ;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+"Bảng Lợi nhuận ròng dự kiến				";;;;;;;;;;;;;;;;;;;;
+Hạng mục (P&L Items);Công thức / Chi tiết;Mức Giá Trung Bình;Số Lượng;Số Ngày;Giá trị (VNĐ);% Doanh thu;;;;"Cafe (30%): Đây là mức tiêu chuẩn của ngành. 
+Bánh (40%): giả định mức này vì bánh có rủi ro hư hỏng cao. Nếu không bán hết trong ngày, chi phí này sẽ tăng lên. 
+Merchs (54%): Mức 54% cho thấy đây là hàng nhập sẵn. Dù biên lãi thấp hơn đồ uống, nhưng Merchs không tốn chi phí vận hành và có thể lưu kho lâu, giúp tối ưu diện tích cửa hàng.
+
+Giá Bán TB (BE_Revenue):
+Tổng doanh thu: 139,500,000
+Giả sử tổng số món bán ra (Cafe + Bánh + Merch) là 1,860 món/tháng.
+=> Giá_bán_TB = 139,500,000 / 1,860 = 75,000 VNĐ/món.
+
+Giá Vốn TB (Avg_Price):
+Tổng giá trị COGS: 27.189.000.
+Tổng sản lượng: 1,860 món/ tháng.
+=> Giá_vốn_TB = 27.189.000 / 1,860 = 14.617VNĐ/món.";;;;;;;;;;
+I. TỔNG DOANH THU;(Cafe + Bánh + Merchs);;;;₫139.500.000;100%;;;;;;;;;;;;;;
+1. Doanh thu Cafe;60 ly/ngày x 35k x 30;₫35.000;60;30;₫63.000.000;52.5%;;;;;;;;;;;;;;
+2. Doanh thu Bánh;30 cái/ngày x 30k x 30;₫30.000;30;30;₫27.000.000;22.5%;;;;;;;;;;;;;;
+3. Doanh thu Merchs;15 món/ngày x 110k x 30;₫110.000;15;30;₫49.500.000;25%;;;;;;;;;;;;;;
+II. GIÁ VỐN HÀNG BÁN (COGS);Tổng chi phí nguyên liệu;;;;₫27.189.000;38.3%;;;;;;;;;;;;;;
+1. COGS Cafe ;63,000,000 x 30%;;;;₫189.000;30%;;;;;;;;;;;;;;
+2. COGS Bánh ;27,000,000 x 40%;;;;₫10.800.000;40%;;;;;;;;;;;;;;
+3. COGS Merchs ;30,000,000 x 54%;;;;₫16.200.000;54%;;;;;;;;;;;;;;
+III. LỢI NHUẬN GỘP (GP);(I) - (II);;;;₫112.311.000;61.7%;;;;;;;;;;;;;;
+IV. CHI PHÍ VẬN HÀNH (OpEx);Tổng định phí;;;;₫17.260.583;35.8%;;;;;;;;;;;;;;
+1. Thuê mặt bằng;Cố định;;;;₫0;;;;;;;;;;;;;;;
+2. Lương nhân sự (4 người);2 ca x 3 nhân sự (23k/h);₫184.000;2;30;₫11.040.000;;;;;;;;;;;;;;;
+3. Điện, nước, Internet, App;Biến đổi;₫4.000.000;;;₫4.000.000;;;;;;;;;;;;;;;
+4. Khấu hao tài sản;Từ bảng CapEx;₫2.220.583;;;₫2.220.583;;;;;;;;;;;;;;;
+V. LỢI NHUẬN RÒNG (NP);(III) - (IV);;;;₫95.050.417;25.9%;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+Bảng tính P&L (Lợi nhuận) giả định cho 1 tháng hoạt động của quán. ;;;;;;;;;;;;;;;;;;;;
+STT;Hạng mục (Items);Đơn vị;Kịch bản Cơ sở;Ghi chú;;;;;;;;;;;;;;;;
+A;DOANH THU;VNĐ;₫139.500.000;;;;;;;;;;;;;;;;;
+B;GIÁ VỐN HÀNG BÁN (COGS);VNĐ;₫27.189.000;35% Doanh thu;;;;;;;;;;;;;;;;
+C;LỢI NHUẬN GỘP (GP);VNĐ;₫112.311.000;(A - B);;;;;;;;;;;;;;;;
+D;CHI PHÍ VẬN HÀNH (OPEX);VNĐ;₫17.260.583;;;;;;;;;;;;;;;;;
+1;Thuê mặt bằng;VNĐ;₫0;Vị trí trung tâm Cà Mau;;;;;;;;;;;;;;;;
+2;Nhân sự (2 Part-time, 1Fulltime);VNĐ;₫11.040.000;23k/giờ;;;;;;;;;;;;;;;;
+3;Điện, nước, Internet;VNĐ;₫4.000.000;;;;;;;;;;;;;;;;;
+E;LỢI NHUẬN RÒNG (NET);VNĐ;₫95.050.417;(C - D);;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+Nhóm hàng;Sản lượng (A);Giá bán (B);Giá vốn (C);Doanh thu (AxB);;;;;;;;;;;;;;;;
+Cafe;1,8;₫35.000;₫11;63,000,000;;;;;;;;;;;;;;;;
+Bánh;600;₫45.000;₫18;27,000,000;;;;;;;;;;;;;;;;
+Merchs;450;₫110;₫59;49,500,000;;;;;;;;;;;;;;;;
+TỔNG;2,85;;;139,500,000;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+Chỉ số (KPIs);Giá trị2;Công thức sử dụng;;;;;;;;;;;;;;;;;;
+Doanh thu hòa vốn;#VALUE!;OpEx / GP_%;;;;;;;;;;;;;;;;;;
+Sản lượng hòa vốn;~373 món;BE_Revenue / Avg_Price;;;;;;;;;;;;;;;;;;
+Biên an toàn;79%;(Doanh_thu_thực - Hòa_vốn) / Doanh_thu_thực;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
