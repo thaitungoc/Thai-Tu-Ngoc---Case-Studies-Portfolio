@@ -51,12 +51,8 @@
 
 **Impact:** Hoàn thiện bộ hồ sơ Nghiên cứu khả thi, sẵn sàng cho giai đoạn vận hành với hệ thống quản lý dữ liệu chuẩn hóa.
 
-**Tools:** Excel/Google Sheets.
-Problem: Tại sao con định mở quán này?
-
-Methodology: Con đã dùng công cụ gì (Excel để tính P&L, khảo sát thực địa để lấy số liệu)?
-
-The "Why": Tại sao con lại dừng dự án? (Nhấn mạnh: Dừng lại để bảo toàn nguồn lực là một quyết định chiến lược).
+**Tools:** Excel/ Word/ Google Sheets.
+> [🔗 Xem chi tiết tại đây](./Financial_Model_Cafe_Project.csv)
 
 # 👩🏼‍💻 Các Case Study Data Analyst
 ## 1. Phân tích Hiệu Suất Chuỗi Cửa Hàng & Hub [SQL]
