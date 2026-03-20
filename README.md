@@ -96,7 +96,7 @@
 
 ## 3.  Kiểm toán dữ liệu chiến lược và Phân tích hiệu suất [Tableau]
 **Dữ liệu:** EU SuperStore
-
+> [🔗 Xem chi tiết Tableau Workbook tại đây](./Demo_EU_SuperStore.twbx)
 ---
 
 ## 📮 Công cụ sử dụng
