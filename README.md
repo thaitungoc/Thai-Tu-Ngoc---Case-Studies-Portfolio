@@ -14,12 +14,11 @@
 
 **Strategic Planning:** Hoạch định chiến lược và thiết lập mục tiêu (KPIs/OKRs).
 
-
-## 💻 **Technical Skills:**
-
 **Financial Modeling:** Sử dụng Excel/Google Sheets để xây dựng mô hình P&L, CAPEX/OPEX, và dự báo dòng tiền.
 
 **Geospatial Analysis (Cơ bản):** Tư duy phân tích vị trí dựa trên mật độ dân cư và khoảng cách địa lý.
+
+## 💻 **Technical Skills:**
 
 **Data Analytics:** SQL (Window Functions, Joins), Python (Pandas).
 
@@ -49,7 +48,7 @@
 
 🗂️ Thiết lập hệ thống mã hàng cho Coffee, Bakery và Merchs.
 
-**Impact:** Hoàn thiện bộ hồ sơ Nghiên cứu khả thi, sẵn sàng cho giai đoạn vận hành với hệ thống quản lý dữ liệu chuẩn hóa.
+**Impact:** Hoàn thiện bộ hồ sơ nghiên cứu khả thi, sẵn sàng cho giai đoạn vận hành với hệ thống quản lý dữ liệu chuẩn hóa.
 
 **Tools:** Excel/ Word/ Google Sheets.
 > [🔗 Xem chi tiết tại đây](./Financial_Model_Cafe_Project.csv)
