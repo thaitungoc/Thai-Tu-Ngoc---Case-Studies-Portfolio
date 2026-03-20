@@ -40,6 +40,7 @@
 **Task:** Xây dựng hệ thống dự báo tài chính và quy trình vận hành từ con số 0.
 
 **Action:**
+
 🧾 Xây dựng mô hình tài chính định lượng (CAPEX/OPEX) chi tiết để quản lý ngân sách.
 
 📈 Xây dựng kịch bản Dự báo điểm hòa vốn dựa trên dữ liệu thị trường.
@@ -51,7 +52,11 @@
 **Impact:** Hoàn thiện bộ hồ sơ Nghiên cứu khả thi, sẵn sàng cho giai đoạn vận hành với hệ thống quản lý dữ liệu chuẩn hóa.
 
 **Tools:** Excel/Google Sheets.
+Problem: Tại sao con định mở quán này?
 
+Methodology: Con đã dùng công cụ gì (Excel để tính P&L, khảo sát thực địa để lấy số liệu)?
+
+The "Why": Tại sao con lại dừng dự án? (Nhấn mạnh: Dừng lại để bảo toàn nguồn lực là một quyết định chiến lược).
 
 # 👩🏼‍💻 Các Case Study Data Analyst
 ## 1. Phân tích Hiệu Suất Chuỗi Cửa Hàng & Hub [SQL]
@@ -94,6 +99,7 @@
 > [🔗 Xem chi tiết Notebook Python tại đây](./Project_Python_Cert.ipynb)
 
 ## 3.  Kiểm toán dữ liệu chiến lược và Phân tích hiệu suất [Tableau]
+**Dữ liệu:** EU SuperStore
 
 ---
 
