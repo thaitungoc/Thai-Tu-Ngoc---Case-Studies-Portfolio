@@ -22,7 +22,7 @@
 
 **Data Analytics:** SQL (Window Functions, Joins), Python (Pandas).
 
-**Data Visualization:** Taleau.
+**Data Visualization:** Taleau, Seaborn.
 
 
 ## 📇 **Audit & Quality:**
