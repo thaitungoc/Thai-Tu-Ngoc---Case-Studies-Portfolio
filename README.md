@@ -28,7 +28,9 @@
 **Data Auditing & Integrity:** Kiểm soát tính chính xác và trung thực của dữ liệu từ nhiều nguồn (thủ công/ tự động/ bán tự động).
 
 # F&B Startup Strategy & Pre-operating (Personal Project)
-**My Story** Năm 2025, sau đợt Tết về quê thì em nhận ra TP Cà Mau đang được Nhà nước quan tâm, các bạn học sinh ở đây chịu chi cho các trải nghiêm mới hơn thời của em trước đó và vùng đất này đang được đầu tư phát triển nhiều hơn, em bắt đầu thấy nơi này có tiềm năng cùng với có mặt bằng sẵn của gia đình và em nảy lên ý nghĩ là về quê lập nghiệp 3 năm và sau đó vận hành từ xa với một coffee shop bán chủ yếu coffee, toast, croissants và merchs, em sẽ phát triển coffee shop thành brand. 
+**My Story** 
+
+Năm 2025, sau đợt Tết về quê thì em nhận ra TP Cà Mau đang được Nhà nước quan tâm, các bạn học sinh ở đây chịu chi cho các trải nghiêm mới hơn thời của em trước đó và vùng đất này đang được đầu tư phát triển nhiều hơn, em bắt đầu thấy nơi này có tiềm năng cùng với có mặt bằng sẵn của gia đình và em nảy lên ý nghĩ là về quê lập nghiệp 3 năm và sau đó vận hành từ xa với một coffee shop bán chủ yếu coffee, toast, croissants và merchs, em sẽ phát triển coffee shop thành brand. 
 Trong 4 tháng triển khai project đó, em được tiếp xúc với các khâu:
 - [ ] Thiết kế ánh sáng cho quán (do mặt bằng nhà em sử dụng đã quá cũ và thiếu sáng). 
 - [ ] Tìm kiếm, chọn mua máy pha đủ công suất, máy nước nóng, máy lọc, tủ lạnh phù hợp cho quán. 
@@ -45,7 +47,8 @@ Trong 4 tháng triển khai project đó, em được tiếp xúc với các kh�
 - [ ] Lên ý tưởng Discount và các câu chuyện Discount gây hứng thú. 
 Tuy nhiên, sau 4 tháng em chọn dừng Project vì các lý do:
 - [ ] Không thoả hiệp được về mặt bằng kinh doanh dù đã bàn bạc từ đầu. 
-- [ ] Dừng lại để không hao hụt chi phí hơn nữa. Và chọn quay lại Sài Gòn tìm cơ hội mới. 
+- [ ] Dừng lại để không hao hụt chi phí hơn nữa. Và chọn quay lại Sài Gòn tìm cơ hội mới.
+
 **Context:** Thiết lập mô hình kinh doanh cho Startup F&B (Cafe, Bakery & Merch).
 
 **Task:** Xây dựng hệ thống dự báo tài chính và quy trình vận hành từ con số 0.
@@ -111,4 +114,4 @@ Tuy nhiên, sau 4 tháng em chọn dừng Project vì các lý do:
 - **Ngôn ngữ:** SQL (BigQuery/Standard SQL), Python.
 - **Thư viện:** Pandas, Matplotlib, Seaborn, Tableau.
 - **Tư duy:** Data Auditing, EDA, Statistical Analysis.
-- **Nghiệp vụ:** Business Analysis, P&L Modeling, Supply Chain Planning.
+- **Nghiệp vụ:** Business Analysis, Supply Chain Planning.
