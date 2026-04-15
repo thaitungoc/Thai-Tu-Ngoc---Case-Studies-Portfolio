@@ -107,8 +107,9 @@ Tuy nhiên, sau 4 tháng em chọn dừng Project vì các lý do:
 
 ## 3.  Kiểm toán dữ liệu chiến lược và Phân tích hiệu suất [Tableau]
 **Dữ liệu:** EU SuperStore
-> [🔗 Xem chi tiết Tableau Workbook tại đây](./Demo_EU_SuperStore.twbx)
+> [🔗 Xem chi tiết Tableau Workbook tại đây](./[Demo_EU_SuperStore.twbx](https://public.tableau.com/views/Demo_EU_SuperStore/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 ---
+https://public.tableau.com/views/Demo_EU_SuperStore/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## 📮 Công cụ sử dụng
 - **Ngôn ngữ:** SQL (BigQuery/Standard SQL), Python.
