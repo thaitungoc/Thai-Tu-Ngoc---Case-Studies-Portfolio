@@ -28,7 +28,7 @@
 **Data Auditing & Integrity:** Kiểm soát tính chính xác và trung thực của dữ liệu từ nhiều nguồn (thủ công/ tự động/ bán tự động).
 
 # F&B Startup Strategy & Pre-operating (Personal Project)
-**My Story** 
+📰 **My Story** 
 
 Năm 2025, sau đợt Tết về quê thì em nhận ra TP Cà Mau đang được Nhà nước quan tâm, các bạn học sinh ở đây chịu chi cho các trải nghiêm mới hơn thời của em trước đó và vùng đất này đang được đầu tư phát triển nhiều hơn, em bắt đầu thấy nơi này có tiềm năng cùng với có mặt bằng sẵn của gia đình và em nảy lên ý nghĩ là về quê lập nghiệp 3 năm và sau đó vận hành từ xa với một coffee shop bán chủ yếu coffee, toast, croissants và merchs, em sẽ phát triển coffee shop thành brand. 
 Trong 4 tháng triển khai project đó, em được tiếp xúc với các khâu:
