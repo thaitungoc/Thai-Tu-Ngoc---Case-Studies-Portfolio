@@ -21,9 +21,7 @@
 **Data Analytics:** SQL (Window Functions, Joins), Python (Pandas).
 
 **Data Visualization:** Taleau, Seaborn.
-chung_nhan_DataVisualize.pdf
-chung_nhan_PYTHON.pdf
-chung_nhan_SQL.pdf
+
 
 ## 📇 **Audit & Quality:**
 
