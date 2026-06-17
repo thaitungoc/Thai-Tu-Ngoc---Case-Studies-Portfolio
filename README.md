@@ -18,7 +18,7 @@
 
 ## 💻 **Technical Skills:**
 
-**Data Analytics:** SQL (Window Functions, Joins), Python (Pandas).
+**Data Analytics:** SQL (Window Functions, Joins), Python (Pandas), Machine Learning.
 
 **Data Visualization:** Taleau, Seaborn.
 
