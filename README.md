@@ -1,4 +1,4 @@
-# Thai Tu Ngoc | Strategic Operations Analysis | Business Intelligence & Data Analyst Portfolio
+# Thai Tu Ngoc | Strategic Operations Analysis | Data Analyst Portfolio
 
 ✨ Chào mừng bạn đến với Portfolio của tôi. Đây là tập hợp các dự án phân tích dữ liệu tập trung vào kỹ năng kiểm soát dữ liệu, phát hiện bất thường tôi được làm trong quá trình học Data Analyst Certificate tại TTTH - HCMUS và cách tôi áp dụng tư duy Kinh Doanh từ nền tảng học thuật ngành Kinh Doanh Quốc Tế đã được học tại VLU để kết nối dữ liệu với chiến lược kinh doanh hỗ trợ tối ưu hoá vận hành.
 
@@ -26,44 +26,6 @@
 ## 📇 **Audit & Quality:**
 
 **Data Auditing & Integrity:** Kiểm soát tính chính xác và trung thực của dữ liệu từ nhiều nguồn (thủ công/ tự động/ bán tự động).
-
-# 🕯️ F&B Startup Strategy & Pre-operating (Personal Project)
-## 📰 **My Story** 
-
-Năm 2025, sau đợt Tết về quê thì em nhận ra TP Cà Mau đang được Nhà nước quan tâm, các bạn học sinh ở đây chịu chi cho các trải nghiêm mới hơn thời của em trước đó và vùng đất này đang được đầu tư phát triển nhiều hơn, em bắt đầu thấy nơi này có tiềm năng cùng với có mặt bằng sẵn của gia đình và em nảy lên ý nghĩ là về quê lập nghiệp 3 năm và sau đó vận hành từ xa với một coffee shop bán chủ yếu coffee, toast, croissants và merchs, em sẽ phát triển coffee shop thành brand. 
-Trong 4 tháng triển khai project đó, em được tiếp xúc với các khâu:
-- [ ] Thiết kế ánh sáng cho quán (do mặt bằng nhà em sử dụng đã quá cũ và thiếu sáng). 
-- [ ] Tìm kiếm, chọn mua máy pha đủ công suất, máy nước nóng, máy lọc, tủ lạnh phù hợp cho quán. 
-- [ ] Thiết kế quầy bar theo công năng sử dụng 1 chiều để barsita pha chế được trơn chu giúp tiết kiệm thời gian và tăng công suất cho trường hợp khách đông. 
-- [ ] Thiết kế đường đi ổ điện cho khách sử dụng thuận tiện khi có nhu cầu. 
-- [ ] Thiết kế menu, logo, bảng hiệu. 
-- [ ] Thiết kế Loyalty Card theo định hình phong cách quán hướng đến nhằm Marketing và đổi ưu đãi, quà tặng, gia tăng tỉ lệ Khách Hàng quay lại trải nghiệm và sử dụng dịch vụ. 
-- [ ] Định hình phong cách quán: chốt tone màu quầy bar, màu tường chính, phong cách menu, font chữ logo brand. 
-- [ ] Thiết kế quy trình mở quán, dọn quán, vệ sinh, check ca, bảo quản nguyên liệu. 
-- [ ] Thiết kế checklist dọn vệ sinh và checklist các ca làm việc cho các bạn nhân viên. 
-- [ ] Lên danh sách và chốt sản phẩm (dung tích, màu sắc ly, muỗng, ống hút) cần thiết. 
-- [ ] Liên hệ nhà cung cấp, bàn bạc về thiết kế và màu sắc ly nhựa đặt hàng. 
-- [ ] Lên ý tưởng Marketing cho SoftOpening và chuẩn bị sửa đổi vận hành nếu có sai sót cho phù hợp về sau. 
-- [ ] Lên ý tưởng Discount và các câu chuyện Discount gây hứng thú. 
-Tuy nhiên, sau 4 tháng em chọn dừng Project vì các lý do:
-- [ ] Không thoả hiệp được về mặt bằng kinh doanh dù đã bàn bạc từ đầu. 
-- [ ] Dừng lại để không hao hụt chi phí hơn nữa. Và chọn quay lại Sài Gòn tìm cơ hội mới.
-
-**Context:** Thiết lập mô hình kinh doanh cho Startup F&B (Cafe, Bakery & Merch).
-
-**Task:** Xây dựng hệ thống dự báo tài chính và quy trình vận hành từ con số 0.
-
-**Action:**
-
-🧾 Xây dựng mô hình tài chính định lượng (CAPEX/OPEX) chi tiết để quản lý ngân sách.
-
-📈 Xây dựng kịch bản Dự báo điểm hòa vốn dựa trên dữ liệu thị trường.
-
-💡 Thiết kế ánh sáng, màu sắc chủ đạo, định hướng phong cách quán.
-
-📊 Phân tích dữ liệu thị trường để thiết kế danh mục sản phẩm tối ưu biên lợi nhuận.
-
-**Tools:** Excel/ Word/ Google Sheets.
 
 # 👩🏼‍💻 Các Case Study Data Analyst
 ## 1. Phân tích Hiệu Suất Chuỗi Cửa Hàng & Hub [SQL]
